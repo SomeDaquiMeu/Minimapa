@@ -55,12 +55,12 @@
     "width": 539,
     "height": 421
    },
-  "otro": {
-    "name": "1.png",
-    "x": 3273,
-    "y": 1201,
-    "width": 141,
-    "height": 191
+  "fuhrermarcos": {
+    "name": "fuhrermarcos.png",
+    "x": 151,
+    "y": 296,
+    "width": 170,
+    "height": 97
   },
 	  "otro2": {
 	"name": "2.png",
