@@ -1,114 +1,16 @@
 {
-  "cyanes": {
-    "name": "argentina.png",
-    "x": 1011,
-    "y": -1089,
+  "ITTODA": {
+    "name": "ITTODA.png",
+    "x": 0,
+    "y": 0,
     "width": 239,
     "height": 144
    },
-    "maggie": {
-    "name": "maggie.png",
-    "x": 1251,
-    "y": -1034,
-    "width": 80,
-    "height": 79
-   },
-    "cz": {
-    "name": "cz.png",
-    "x": 1344,
-    "y": -1088,
-    "width": 192,
-    "height": 141
-  },
-    "revenge": {
-    "name": "revenge.png",
-    "x": -4096,
-    "y": 3295,
-    "width": 1308,
-    "height": 798
-   },
-    "makegreatargentinaagain": {
-    "name": "makegreatargentinaagain.png",
-    "x": 3285,
-    "y":  -4096,
-    "width": 811,
-    "height": 408
-   },
-      "pepe": {
-    "name": "pepe.png",
-    "x": 962,
-    "y": -941,
-    "width": 71,
-    "height": 71
-   },
-      "ve": {
-    "name": "ve.png",
-    "x": 1253,
-    "y": -1088,
-    "width": 69,
-    "height": 48
-   },
-      "argentinna": {
-    "name": "argentinna.png",
-    "x": 325,
-    "y": 257,
-    "width": 539,
-    "height": 421
-   },
-  "fuhrermarcos": {
-    "name": "fuhrermarcos.png",
-    "x": 151,
-    "y": 296,
-    "width": 170,
-    "height": 97
-  },
-	  "otro2": {
-	"name": "2.png",
-	"x": 1404,
-	"y": 89,
-	"width": 102,
-	"height": 48 
-  },
-      "otro3": {
-	"name": "3.png",  
-	"x": 722,
-	"y": 720,
-	"width": 217,
-	"height": 116
-  },
-	  "otro4": {
-	"name": "4.png",
-	"x": 1176,
-	"y": -209,
-	"width": 200,
-	"height": 177
-  },
-	  "otro5": {
-	"name": "5.png", 
-	"x": 1402,
-	"y": 44,
-	"width": 243,
-	"height": 44
-  },
-	  "otro6": {
-	 "name": "6.png",
-	 "x": 701,
-	 "y": 160,
-	 "width": 120,
-	 "height": 74
-  },
- 	  "otro7": {
-	 "name": "8.png",
-	 "x": 2329,
-	 "y": -1237,
-	 "width": 343,
-	 "height": 242
-  },
-      "otro9": {
-	 "name": "9.png",
-	 "x": -2550,
-	 "y": -3082,
-	 "width": 157,
-	 "height": 157
+    "1": {
+    "name": "1.png",
+    "x": 1,
+    "y": -1,
+    "width": 1,
+    "height": 1
   }
 }
