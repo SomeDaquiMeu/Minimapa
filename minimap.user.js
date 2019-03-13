@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         Minimapa argentino pixelzone
+// @name         Minimap LilRaff
 // @namespace    http://tampermonkey.net/
 // @version      1.2.0
 // @description  Minimapa para pixelzone.io
-// @author       Maarcos#6160 // Discord.io/pixelxargentina
+// @author       LilRaff
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/Marxarg/Marxmapa/
-// @updateURL    https://raw.githubusercontent.com/Marxarg/Marxmapa/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/Marxarg/Marxmapa/master/minimap.user.js
+// @homepage     https://github.com/SomeDaquiMeu/Minimapa/
+// @updateURL    https://raw.githubusercontent.com/SomeDaquiMeu/Minimapa/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/SomeDaquiMeu/Minimapa/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 var range = 25;
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/Marxarg/Marxmapa/master/';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/SomeDaquiMeu/Minimapa/master/';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
